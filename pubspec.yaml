@@ -1,0 +1,5 @@
+name: mutable_wrappers
+description: wraps basic dart data types and objects in class with mutable field. It can be used in classes which marked as @immutable.
+version: 1.0.0
+license: LGPL v2
+homepage: https://github.com/bgoncharuck/mutable_wrappers.git

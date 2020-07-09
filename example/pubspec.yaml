@@ -1,0 +1,11 @@
+name: mutable_wrappers_example
+description: example test for mutable_wrappers
+version: 1.0.0
+homepage: https://github.com/bgoncharuck/mutable_wrappers.git
+
+dependecies:
+  mutable_wrappers:
+
+dependency_overrides:
+  mutable_wrappers:
+    path: ../
