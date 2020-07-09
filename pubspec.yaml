@@ -3,3 +3,6 @@ description: wraps basic dart data types and objects in class with mutable field
 version: 1.0.0
 license: LGPL v2
 homepage: https://github.com/bgoncharuck/mutable_wrappers.git
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
